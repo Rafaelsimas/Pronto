@@ -45,6 +45,7 @@ body {
   top: 617px;
   border: none;
   color: white;
+  outline: none;
 
   background: #ff748e;
   border-radius: 10px;
