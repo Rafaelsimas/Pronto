@@ -46,9 +46,10 @@ body {
   border: none;
   color: white;
   outline: none;
-
+  cursor: pointer;
   background: #ff748e;
   border-radius: 10px;
+  font-weight: bold;
 }
 
 .img-first {
