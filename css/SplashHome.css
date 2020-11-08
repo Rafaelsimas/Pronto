@@ -33,10 +33,10 @@ nav ul li a {
   padding: 7px 13px;
 }
 
-a:hover {
+/* a:hover {
   border-bottom: 1px solid #ff748e;
   transition: all 0.5s;
-}
+} */
 
 .btn-2 {
   border: 1px solid #ff748e;
