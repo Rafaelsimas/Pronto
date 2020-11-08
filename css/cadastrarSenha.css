@@ -1,0 +1,25 @@
+input {
+  margin-top: 30px;
+  border: none;
+  background: none;
+  border-bottom: 3px solid white;
+  border-radius: 1px;
+  width: 90%;
+}
+
+::placeholder {
+  color: white;
+  text-align: left;
+}
+
+.box-cadastro button {
+  margin-top: 90px;
+  border: 1px solid #ff748e;
+  padding: 12px 40px;
+  background: #ff748e;
+  border-radius: 9px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
